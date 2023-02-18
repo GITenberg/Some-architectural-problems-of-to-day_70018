@@ -1,0 +1,28 @@
+_repo: Some-architectural-problems-of-to-day_70018
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reilly, C. H.
+    gutenberg_agent_id: '55546'
+    url: http://www.gutenberg.org/2009/agents/55546
+description: ''
+gutenberg_issued: '2023-02-11'
+identifiers:
+  gutenberg: '70018'
+language: en
+pgterms:marc904: https://archive.org/details/somearchitectura00reil/page/n5/mode/2up
+pgterms:marc905: 20210820181924reillyobem
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bThe University Press of Liverpool, Limited,
+  $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Some architectural problems of to-day
+url: http://www.gutenberg.org/ebooks/70018
